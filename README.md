@@ -1,40 +1,34 @@
-👋 Hi there, I'm Rohit!
-🧑‍💻 FOSS Developer | 🔐 Aspiring Cybersecurity Researcher | 🛡️ Ethical Hacking Enthusiast
+# Rohit — FOSS Developer · Security Researcher in training
 
-I’m passionate about Free and Open Source Software (FOSS), cybersecurity, and building useful software. I enjoy learning by creating projects, exploring how systems work, and contributing to the open-source ecosystem.
+**FOSS Developer • Aspiring Cybersecurity Researcher • Ethical Hacking Enthusiast**
 
-🚀 What I'm Doing
+I build open‑source desktop tools and security utilities, explore Rust & Tauri for modern apps, and research practical vulnerabilities to make software safer.
 
-🔭 Building and experimenting with FOSS projects
+---
 
-🦀 Exploring Rust & Tauri for modern desktop applications
+## 🔭 Current focus
+- Building cross‑platform desktop apps with **Rust + Tauri**
+- Learning **C# + WPF** for Windows tooling
+- Python for automation, tooling, and ML experiments
+- Security research: vulnerability discovery, exploit mitigation, and responsible disclosure
 
-💜 Learning C# & WPF for Windows development
+## 🛠️ Tech stack
+**Languages:** Rust; C#; Python  
+**Desktop:** Tauri; WPF  
+**Security:** Ethical hacking; vulnerability research  
+**Tools:** Linux; Git; GitHub
 
-🐍 Working with Python and exploring AI/ML
+## ⭐ Featured projects
+- **ProjectName1** — short one‑line: what it does; tech: Rust, Tauri  
+- **ProjectName2** — short one‑line: what it does; tech: Python, CLI  
+- **ProjectName3** — short one‑line: what it does; tech: C#, WPF
 
-🔐 Learning cybersecurity, ethical hacking, and security research
+## 🤝 Collaboration
+- Open to co‑maintaining FOSS projects and security research collaborations
+- Best contact: **your.email@example.com** or open an issue/discussion on the repo
+- Time zone: **Nepal Time (NPT)**
 
-🌱 Continuously improving my development and security skills
+## 📌 Responsible disclosure
+If you find a security issue in my projects, please email me at the address above. I follow coordinated disclosure practices.
 
-🤝 Interested in open-source collaboration
-
-🛠️ Technologies
-
-Languages: Rust • C# • Python
-
-Desktop Development: Tauri • WPF
-
-AI/ML: Python • Machine Learning
-
-Security: Cybersecurity • Ethical Hacking • Security Research
-
-Tools: Linux • Git • GitHub
-
-🎯 Current Focus
-
-Building open-source software, learning cybersecurity, and developing practical tools while continuously improving my technical skills.
-
-📌 Featured Projects
-
-Check out my pinned repositories below to see what I've been building.
+---
