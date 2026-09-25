@@ -12,7 +12,6 @@
 **Languages:** Rust · C# · Python  
 **Desktop:** Tauri · WPF  
 **Security:** Ethical hacking · Vulnerability research  
-**Tools:** Linux · Git · GitHub
 
 ╭────────────────────────────╮
 │  Contributors             │
@@ -20,14 +19,9 @@
 │  👥  **167**              │
 ╰────────────────────────────╯
 
-## ⭐ Featured projects
-- **ProjectName1** — one‑line: what it does; tech: Rust, Tauri  
-- **ProjectName2** — one‑line: what it does; tech: Python, CLI  
-- **ProjectName3** — one‑line: what it does; tech: C#, WPF
-
 ## 🤝 Collaboration
 - Open to co‑maintaining FOSS projects and security research collaborations  
-- Best contact: your.email@example.com  
+- Best contact: rohitmandal5984@gmail.com  
 - Time zone: Nepal Time (NPT)
 
 ## 📌 Responsible disclosure
