@@ -14,10 +14,6 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ```javascript
 const rohit = {
   role: "FOSS Developer",
@@ -26,11 +22,12 @@ const rohit = {
     "Rust + Tauri desktop apps",
     "C# + WPF Windows tooling"
   ],
-  researching: "Vulnerability discovery & disclosure",
+  researching: "Vulnerability discovery & responsible disclosure",
   learning: "Python + Machine Learning 🤖",
   email: "rohitmandal5984@gmail.com",
   motto: "Break it ethically. Fix it for everyone."
 };
+```
 
 ## 🎯 Learning Roadmap — Python × ML × Security
 
@@ -87,3 +84,4 @@ const rohit = {
 ⭐️ From Rohit — *"Secure by default, open by design."*
 
 </div>
+ 
