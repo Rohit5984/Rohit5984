@@ -1,75 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohit!
+<!-- Gradient Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohit+Mandal!;Son+of+Mohit+Mandal" alt="Rohit Mandal" />
 
-### 💻 FOSS Developer | Aspiring Cybersecurity Researcher
+# ✨ **R O H I T   M A N D A L** ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FOSS+Developer;Rust+%2B+Tauri+Developer;C%23+%2B+WPF+Developer;Aspiring+Cybersecurity+Researcher;Learning+Python+%2B+Machine+Learning)](https://git.io/typing-svg)
+### 👑 Son of Mohit Mandal
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rohit5984&color=blue&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=FOSS+Developer;Rust+%2B+Tauri+Developer;C%23+%2B+WPF+Developer;Aspiring+Cybersecurity+Researcher;Learning+Python+%2B+Machine+Learning" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Rohit5984&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```javascript
 const rohit = {
+  name: "Rohit Mandal",
+  title: "Son of Mohit Mandal 👑",
   role: "FOSS Developer",
   location: "Nepal 🇳🇵 (NPT)",
   building: [
-    "Rust + Tauri desktop apps",
-    "C# + WPF Windows tooling"
+    "🦀 Rust + Tauri desktop apps",
+    "🪟 C# + WPF Windows tooling"
   ],
-  researching: "Vulnerability discovery & responsible disclosure",
-  learning: "Python + Machine Learning 🤖",
+  researching: "🔎 Vulnerability discovery & responsible disclosure",
+  learning: "🐍 Python + Machine Learning 🤖",
   email: "rohitmandal5984@gmail.com",
   motto: "Break it ethically. Fix it for everyone."
 };
 ```
 
+---
+
 ## 🎯 Learning Roadmap — Python × ML × Security
 
-- 🐍 Python fundamentals and automation
-- 📊 NumPy · Pandas · Matplotlib
-- 🤖 Classical machine learning with scikit-learn
-- 🧠 Deep learning with PyTorch
-- 🔐 ML × Security: anomaly detection and malware classification
+| Focus | Tools & Skills |
+|---|---|
+| 🐍 Python | Fundamentals, automation, scripting |
+| 📊 Data | NumPy · Pandas · Matplotlib |
+| 🤖 Machine Learning | Classical ML with scikit-learn |
+| 🧠 Deep Learning | PyTorch |
+| 🔐 ML × Security | Anomaly detection, malware classification |
+
+---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit5984&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit5984&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit5984&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit5984&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Rohit5984&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Rohit5984/Rohit5984/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/Rohit5984/Rohit5984/output/github-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
-## 🤝 Let's Collaborate
+---
 
-- 🔧 FOSS projects using Rust, C#, and Python
+## 🤝 Let’s Collaborate
+
+- 🔧 FOSS projects using **Rust**, **C#**, and **Python**
 - 🔐 Security research and responsible disclosure
 - 🤖 Machine learning and cybersecurity experiments
+- 🖥️ Desktop tooling with **Tauri** and **WPF**
+
+---
 
 ## 📌 Responsible Disclosure
 
@@ -81,7 +110,6 @@ const rohit = {
 
 <div align="center">
 
-⭐️ From Rohit — *"Secure by default, open by design."*
+### ⭐️ From Rohit — *“Secure by default, open by design.”*
 
 </div>
- 
