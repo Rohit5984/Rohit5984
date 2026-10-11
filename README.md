@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%91+Son+of+the+Genius+Mind%3A+MOHIT+MANDAL+%F0%9F%91%91" alt="Son of Mohit Mandal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%91+Son+of %3A+MOHIT+MANDAL+%F0%9F%91%91" alt="Son of Mohit Mandal" />
 
 <br/>
 
