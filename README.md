@@ -1,41 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:7b2ff7&height=220&section=header&text=Rohit%20Mandal&fontSize=68&fontColor=ffffff&animation=fadeIn&desc=Son%20of%20Mohit%20Mandal%20%E2%80%A2%20FOSS%20Developer%20%E2%80%A2%20Security%20Researcher&descSize=18&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:7b2ff7,100:ff2fc3&height=300&section=header&text=&fontSize=0" width="100%" />
 
-</div>
+# 🌟 **R O H I T   M A N D A L** 🌟
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%91+Son+of+the+Genius+Mind%3A+MOHIT+MANDAL+%F0%9F%91%91" alt="Son of Mohit Mandal" />
 
-### 🚀 Building useful software. Breaking insecure systems — ethically.
+### 👑 **Son of the Genius Mind — MOHIT MANDAL** 👑
 
-I’m a **FOSS developer** from **Nepal 🇳🇵**, focused on desktop applications, open-source tooling, and cybersecurity research.  
-I enjoy creating with **Rust + Tauri** and **C# + WPF**, while learning **Python, Machine Learning, and vulnerability research**.
+<br/>
 
-</div>
+<img src="https://img.shields.io/badge/FOSS_Developer-00C6FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Cybersecurity_Researcher-7B2FF7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Rust_%2B_Tauri-FF4E8E?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Python_%2B_ML-FFB300?style=for-the-badge&labelColor=1a1a2e" />
 
----
+<br/>
 
-## 🧭 What I’m Exploring
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| 🖥️ Desktop Development | Rust · Tauri · C# · WPF |
-| 🐍 Programming & Automation | Python · Git · Open Source |
-| 🤖 Machine Learning | NumPy · Pandas · scikit-learn · PyTorch |
-| 🔐 Cybersecurity | Vulnerability discovery · Responsible disclosure |
+**Building open-source software. Researching security. Learning AI.**  
+*From Nepal 🇳🇵 — creating tools that are secure, useful, and open by design.*
 
 </div>
 
 ---
 
-## 🌱 Currently
+## 🚀 What I Do
 
-- 🔧 Building cross-platform desktop tools with **Rust + Tauri**
-- 🪟 Developing Windows utilities with **C# + WPF**
-- 🤖 Learning **Python** and practical **Machine Learning**
-- 🔍 Researching security issues and practicing **responsible disclosure**
+<div align="center">
+
+| 💻 Development | 🔐 Security | 🤖 AI |
+|---|---|---|
+| Rust + Tauri desktop apps | Vulnerability discovery | Python + Machine Learning |
+| C# + WPF Windows tools | Responsible disclosure | Anomaly detection |
+| Open-source projects | Ethical hacking mindset | Malware classification research |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Python fundamentals, automation, and data analysis  
+- 📊 NumPy · Pandas · Matplotlib  
+- 🤖 Machine Learning with scikit-learn and PyTorch  
+- 🔍 Security research and coordinated vulnerability disclosure  
 
 ---
 
@@ -65,7 +73,7 @@ I enjoy creating with **Rust + Tauri** and **C# + WPF**, while learning **Python
 
 ---
 
-## 🤝 Open To Collaborate On
+## 🤝 Collaborate With Me
 
 <div align="center">
 
@@ -77,8 +85,8 @@ I enjoy creating with **Rust + Tauri** and **C# + WPF**, while learning **Python
 
 ## 🔐 Responsible Disclosure
 
-For private vulnerability reports, contact: **rohitmandal5984@gmail.com**  
-Please allow maintainers reasonable time to investigate and resolve reported issues.
+For private vulnerability reports: **rohitmandal5984@gmail.com**  
+Please give maintainers reasonable time to investigate and fix reported issues.
 
 ---
 
@@ -90,10 +98,6 @@ Please allow maintainers reasonable time to investigate and resolve reported iss
 
 ### ⭐ *Secure by default. Open by design.*
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00c6ff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:7b2ff7,100:ff2fc3&height=120&section=footer" width="100%" />
 
 </div>
