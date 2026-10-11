@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:7b2ff7,100:ff2fc3&height=300&section=header&text=&fontSize=0" width="100%" />
-
-# 🌟 **R O H I T   M A N D A L** 🌟
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%91+Son+of+the+Genius+Mind%3A+MOHIT+MANDAL+%F0%9F%91%91" alt="Son of Mohit Mandal" />
-
-### 👑 **Son of the Genius Mind — MOHIT MANDAL** 👑
 
 <br/>
 
