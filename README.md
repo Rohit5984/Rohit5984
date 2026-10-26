@@ -1,9 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff2fc3&height=260&section=header&text=Rohit%20Mandal&fontSize=78&fontColor=ffffff&animation=fadeIn&desc=Son%20of%20Mohit%20Mandal%20%E2%80%A2%20Rakesh%20%26%20Rohit&descSize=22&descAlignY=72" width="100%" alt="Rohit Mandal — Son of Mohit Mandal" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%91+Son+of+MOHIT+MANDAL+%F0%9F%91%91;Rakesh+%26+Rohit" alt="Son of Mohit Mandal — Rakesh & Rohit" />
 <br/>
-
 ### 🔐 Cybersecurity Researcher  
 ### 🚀 FOSS Developer  
 
