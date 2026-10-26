@@ -25,15 +25,25 @@
 
 ---
 
-## 🛠️ What I Build
+## 🚀 What I Build
+
+I build open-source desktop tools and security-focused projects.
+
+👉 **Check out my repositories, test the apps, and see if they help you.**
+
+- Found a bug or have an idea for an improvement?  
+  Comment on my **latest LinkedIn post** — I read every suggestion.
+
+- Found an app useful?  
+  A ⭐ **star** means a lot and motivates me to keep building better tools.
 
 <div align="center">
 
-| 💻 Development | 🔐 Security | 🤖 AI |
-|---|---|---|
-| Rust + Tauri desktop apps | Vulnerability research | Python + machine learning |
-| C# + WPF Windows tools | Responsible disclosure | Security-focused AI projects |
-| Open-source software | Ethical hacking mindset | Practical automation tools |
+[![GitHub Repositories](https://img.shields.io/badge/Explore_My_Repositories-00C6FF?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/Rohit5984?tab=repositories)
+
+[![LinkedIn](https://img.shields.io/badge/Share_Feedback_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a1a2e)](https://www.linkedin.com/in/your-linkedin-username/)
+
+[![Give a Star](https://img.shields.io/badge/⭐_Star_If_You_Like_It-FFB300?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Rohit5984?tab=repositories)
 
 </div>
 
