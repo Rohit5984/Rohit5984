@@ -1,19 +1,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%91+Son+of+MOHIT+MANDAL+%F0%9F%91%91;Rakesh+%26+Rohit" alt="Son of Mohit Mandal — Rakesh & Rohit" />
-
 <br/>
 
-### 🚀 Building open-source software  
-### 🔐 Researching security  
-### 🤖 Exploring artificial intelligence  
+### 🚀 Building useful open-source software  
+### 🔐 Researching cybersecurity  
 
-*From Nepal 🇳🇵 — creating tools that are secure, useful, and open by design.*
+*From Nepal 🇳🇵 — creating free, secure, and practical tools for everyone.*
 
 <br/>
 
 <img src="https://img.shields.io/badge/FOSS_Developer-00C6FF?style=for-the-badge&labelColor=1a1a2e" alt="FOSS Developer" />
 <img src="https://img.shields.io/badge/Cybersecurity_Researcher-7B2FF7?style=for-the-badge&labelColor=1a1a2e" alt="Cybersecurity Researcher" />
-<img src="https://img.shields.io/badge/Rust_%2B_Tauri-FF4E8E?style=for-the-badge&labelColor=1a1a2e" alt="Rust + Tauri" />
-<img src="https://img.shields.io/badge/Python_%2B_ML-FFB300?style=for-the-badge&labelColor=1a1a2e" alt="Python + ML" />
 
 </div>
 
@@ -21,25 +17,30 @@
 
 ## 🚀 What I Build
 
-I build open-source desktop tools and security-focused projects.
+I create **free and open-source tools** designed to be simple, useful, and secure.
 
-👉 **Check out my repositories, test the apps, and see if they help you.**
+Every project starts with one goal:  
+**Make something people can actually use.**
 
-- Found a bug or have an idea for an improvement?  
-  Comment on my **latest LinkedIn post** — I read every suggestion.
-
-- Found an app useful?  
-  A ⭐ **star** means a lot and motivates me to keep building better tools.
+👉 **Explore my repositories, try the apps, and see if they make your work easier.**
 
 <div align="center">
 
-[![GitHub Repositories](https://img.shields.io/badge/Explore_My_Repositories-00C6FF?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/Rohit5984?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/🔍_Explore_My_Projects-00C6FF?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/Rohit5984?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/Share_Feedback_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a1a2e)](https://www.linkedin.com/in/your-linkedin-username/)
-
-[![Give a Star](https://img.shields.io/badge/⭐_Star_If_You_Like_It-FFB300?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Rohit5984?tab=repositories)
+[![Share Feedback](https://img.shields.io/badge/💬_Share_Feedback_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a1a2e)](https://www.linkedin.com/in/your-linkedin-username/)
 
 </div>
+
+### 💡 Your feedback matters
+
+If you test one of my apps and find a bug, have an improvement idea, or want a new feature, please comment on my **latest LinkedIn post**.  
+Your suggestions help me make every project better.
+
+### ⭐ Support open source
+
+If any project helps you, saves you time, or does something you like, consider giving it a ⭐.  
+Stars help more people discover useful free software—and motivate me to keep building.
 
 ---
 
